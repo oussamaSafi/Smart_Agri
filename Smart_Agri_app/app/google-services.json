@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1031270604565",
+    "project_id": "agrilogger",
+    "storage_bucket": "agrilogger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031270604565:android:538d790443be9f4372d31c",
+        "android_client_info": {
+          "package_name": "com.example.agrilogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031270604565-uriloc7ihe2b8jvrbrvofk5q76b5cg57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy4jv3V-vNZc9DiaKlZHDr4Axrxft5fHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031270604565-uriloc7ihe2b8jvrbrvofk5q76b5cg57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031270604565:android:9afe04a41608c59a72d31c",
+        "android_client_info": {
+          "package_name": "com.example.agrologger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031270604565-uriloc7ihe2b8jvrbrvofk5q76b5cg57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy4jv3V-vNZc9DiaKlZHDr4Axrxft5fHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031270604565-uriloc7ihe2b8jvrbrvofk5q76b5cg57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
